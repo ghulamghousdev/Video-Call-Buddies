@@ -4,4 +4,4 @@ This app is a part of small tasks to learn Flutter. In this Card Widget, Icon Wi
 
 ## Screens
 
-<h1>"      "</h1><img src="./assets/Screen1.jpg" width="280" height="604"> <h1>"      "</h1><img src="./assets/Screen2.jpg" width="280" height="604">
+<img src="./assets/Screen1.jpg" width="280" height="604" margin="10"> <img src="./assets/Screen2.jpg" width="280" height="604" margin="10">
